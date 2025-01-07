@@ -16,4 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-njhvhbnjb
+Satinder Singh - Portfolio
+Welcome to my professional portfolio! 🚀
+I am a MERN Stack Developer and Content Writer passionate about building scalable web applications and creating engaging content. This repository showcases my skills, projects, and experiences.
+
+
+🛠️ Technologies & Tools
+Frontend
+Languages: HTML, CSS, JavaScript
+Frameworks/Libraries: React.js, Tailwind CSS, ShadCN UI
+State Management: Redux, Context API
+Backend
+Languages: JavaScript
+Frameworks: Node.js, Express.js
+Databases: MongoDB
+Additional Skills
+Content Writing & Blogging
+Version Control: Git & GitHub
+
+
